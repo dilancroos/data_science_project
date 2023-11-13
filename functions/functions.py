@@ -6,7 +6,9 @@ import matplotlib.pyplot as plt
 # Function to get the data from the json file
 
 
-def FN(file):
+
+def get_DataFrame(file):
+
     with open(file) as json_file:
         data = json.load(json_file)
 
