@@ -8,7 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">Data Science Assessment</h3>
+  <h2 align="center">Data Science Assessment</h2>
 
   <p align="center">
     Dilan Croos<br>Tarek Nouneh
