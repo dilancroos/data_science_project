@@ -142,7 +142,7 @@ Project Link: [https://github.com/dilancroos/data_science_project](https://githu
 [license-url]: https://github.com/dilancroos/data_science_project/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url1]: https://linkedin.com/in/antondilancrooswarnakulasuriya
-[linkedin-url2]: https://linkedin.com/in/linkedin_username
+[linkedin-url2]: https://linkedin.com/in/tarek-nouneh-09b17527b/
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
