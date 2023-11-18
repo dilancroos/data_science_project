@@ -1,7 +1,5 @@
 import json
 import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
 
 # Function to get the data from the json file
 
