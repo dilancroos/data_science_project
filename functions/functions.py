@@ -23,7 +23,7 @@ def get_Normalized_DataFrame(file):
 
 
 def get_file_name(givenFile):
-    fileN = givenFile.split('.')[0].split('_')
+    fileN = givenFile.split('_')
 
     if len(fileN) == 2:
         fileName = f"{fileN[0]} in {fileN[1]}"
