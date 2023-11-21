@@ -65,10 +65,10 @@ To get a local copy up and running follow these simple steps.
 
 Python 3.11.6^
 
-- pip
+- install pip
 
   ```sh
-  $ pip install pip
+  $ python3 -m pip install pip
   ```
 
 ### Installation
@@ -84,6 +84,8 @@ Python 3.11.6^
    ```sh
    $ cd data_science_project
    ```
+
+- Check <a href="#usage">Usage</a> to create a virtual environment
 
 3. Install PIP packages
 
