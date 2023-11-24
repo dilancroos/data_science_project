@@ -53,6 +53,8 @@ The data is gathered from publicly available (spatio-temporal) football data (st
 
 We are interesting in investigating the attributes and qualities of the players on winning teams in the English Premier League in the 2017-18 season.
 
+<a href="https://www.canva.com/design/DAF0hYpAV6A/ZzEv_xoWRnUzJ-ifhKHGYw/view?utm_content=DAF0hYpAV6A&utm_campaign=designshare&utm_medium=link&utm_source=editor">>> Click Here to Watch the Presentation</a>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
