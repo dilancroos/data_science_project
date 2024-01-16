@@ -78,7 +78,7 @@ Python 3.11.6^
 1. Clone the repo
 
    ```sh
-   $ git@github.com:dilancroos/data_science_project.git
+   $ git clone git@github.com:dilancroos/data_science_project.git
    ```
 
 2. Change to the working directory
@@ -89,12 +89,6 @@ Python 3.11.6^
 
 - Check <a href="#usage">Usage</a> to create a virtual environment
 
-3. Install PIP packages
-
-   ```sh
-   $ pip install -r requirements.txt
-   ```
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
@@ -104,8 +98,20 @@ Python 3.11.6^
 - Create a virtual environment .venv
 
   ```sh
-   $ python -m venv .venv
+  $ python -m venv .venv
   ```
+
+- Enter the virtual environment .venv
+
+  ```sh
+  $ source .venv/bin/activate
+  ```
+
+- Install PIP packages
+
+```sh
+$ pip install -r requirements.txt
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
